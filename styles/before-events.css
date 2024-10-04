@@ -10,8 +10,10 @@
  .events h6,
  .events p {
   margin-bottom: 1px;
+  color:black;
  }
  .events p,
  .events h6 {
    font-size: 14px;
+   color:black;
  }
